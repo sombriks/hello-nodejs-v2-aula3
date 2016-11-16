@@ -24,7 +24,7 @@
 - gerar deletes
 - gerar updates
 - gerar selects
-  - contagens
-  - médias
-  - grupamentos
-  - having
+  - ~~contagens~~
+  - ~~médias~~
+  - ~~grupamentos~~
+  - ~~having~~
