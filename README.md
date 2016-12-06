@@ -9,7 +9,7 @@
 - inverter a atividade 3.2 com a 3.1
   - mostrar como criar o banco primeiro
 
-[Aula 1](https://github.com/sombriks/hello-nodejs-v2-aula1) | [Aula 2]((https://github.com/sombriks/hello-nodejs-v2-aula2) | Aula 3https://github.com/sombriks/hello-nodejs-v2-aula3 | [Aula 4](https://github.com/sombriks/hello-nodejs-v2-aula4) | [Aula 5](https://github.com/sombriks/hello-nodejs-v2-aula5) | [Aula 6](https://github.com/sombriks/hello-nodejs-v2-aula6) | [Aula 7](https://github.com/sombriks/hello-nodejs-v2-aula7) | Aula 8 | Aula 9
+[Aula 1](https://github.com/sombriks/hello-nodejs-v2-aula1) | [Aula 2](https://github.com/sombriks/hello-nodejs-v2-aula2) | Aula 3https://github.com/sombriks/hello-nodejs-v2-aula3 | [Aula 4](https://github.com/sombriks/hello-nodejs-v2-aula4) | [Aula 5](https://github.com/sombriks/hello-nodejs-v2-aula5) | [Aula 6](https://github.com/sombriks/hello-nodejs-v2-aula6) | [Aula 7](https://github.com/sombriks/hello-nodejs-v2-aula7) | Aula 8 | Aula 9
 
 ## [Criação de tabelas no SGBD](3.2-criacao-tabelas-sgbd/README.md)
 
